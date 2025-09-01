@@ -41,4 +41,5 @@ for doc in docs:
     st.write(f"💊 الحالة: {d['health_status']}")
     st.write(f"🧪 التحاليل: {d['lab_results']}")
     st.write(f"📝 التقرير: {d['report']}")
+
     st.markdown("---")
